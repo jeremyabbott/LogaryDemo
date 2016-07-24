@@ -1,6 +1,6 @@
-﻿module FSharp.ProjectScaffold.Tests
+module LogaryDemo.Tests
 
-open FSharp.ProjectTemplate
+open LogaryDemo
 open NUnit.Framework
 
 [<Test>]

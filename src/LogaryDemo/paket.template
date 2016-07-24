@@ -1,0 +1,25 @@
+type project
+title
+    LogaryDemo
+owners
+    Jeremy Abbott
+authors 
+    Jeremy Abbott
+projectUrl
+    http://github.com/jeremyabbott/LogaryDemo
+iconUrl
+    https://raw.githubusercontent.com/jeremyabbott/LogaryDemo/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/jeremyabbott/LogaryDemo/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    logary F#
+summary
+    Demo of Logary
+description
+    Description not set
+
+

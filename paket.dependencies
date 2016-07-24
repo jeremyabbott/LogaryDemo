@@ -1,6 +1,10 @@
 source https://nuget.org/api/v2
 
 nuget FSharp.Core redirects: force
+nuget Logary
+nuget Logary.Adapters.Suave
+nuget Logary.WinPerfCounters
+nuget Suave
 
 group Build
   source https://nuget.org/api/v2

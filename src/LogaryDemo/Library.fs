@@ -1,4 +1,4 @@
-﻿namespace FSharp.ProjectTemplate
+namespace LogaryDemo
 
 /// Documentation for my library
 ///
